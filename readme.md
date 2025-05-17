@@ -68,3 +68,28 @@ Nesta seção do bootcamp Microsoft Azure Cloud Native da DIO, implementei uma a
    - Os Container Apps permitem dimensionamento automático conforme a demanda
 4. Custos:
    - A abordagem serverless dos Container Apps pode reduzir custos para aplicações com tráfego variável
+  
+<br/>
+
+## API de Pagamentos Segura com Azure API Management
+
+### 📌 Visão Geral
+
+Nesta parte do bootcamp, trabalhei com o gerenciamento de uma API já publicada no Azure Web Apps, utilizando o **Azure API Management** para adicionar:
+
+- **Camadas de segurança** para proteger os endpoints
+- **Versionamento** para controle de diferentes releases
+
+### 🔧 Processos Implementados
+
+1. Importação da API no API Management
+2. Configuração de políticas de segurança
+3. Implementação de versionamento da API
+4. Teste dos endpoints protegidos
+
+### 💡 Insights Adquiridos
+
+1. Segurança:
+   - Facilidade em adicionar autenticação e autorização
+2. Governança:
+   - Controle centralizado de todas as APIs
